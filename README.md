@@ -19,8 +19,8 @@ gn="left"> </h2>
 
 ###
 <p>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXkydTVrdHA3b252cm0wbmU4d2hxbDV1Z3UxbnU0dW9qOWV4aW8wNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Cf4T1D2yhCGotOQscB/giphy.gif" width="40%" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXF3cWsyZWdpNTFqbHozNWR6azI3OWNyd29qc3kxcTY4MXdpZDBqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fVepKDtIcZYqV4gzSL/giphy.gif" width="42%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXkydTVrdHA3b252cm0wbmU4d2hxbDV1Z3UxbnU0dW9qOWV4aW8wNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Cf4T1D2yhCGotOQscB/giphy.gif" width="49%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXF3cWsyZWdpNTFqbHozNWR6azI3OWNyd29qc3kxcTY4MXdpZDBqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fVepKDtIcZYqV4gzSL/giphy.gif" width="50%" />
 
 
 
