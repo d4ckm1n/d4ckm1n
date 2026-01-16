@@ -20,9 +20,10 @@ gn="left"> </h2>
 ###
 <p>
 
-  
+  ![hehe](https://github.com/user-attachments/assets/94f3dcfd-481a-4242-8d77-e2fc8782fd6a)
 
-![vosi](https://github.com/user-attachments/assets/3c46b0d4-0310-45cd-b5ba-8f0ac4898086)
+
+
 
 
 
