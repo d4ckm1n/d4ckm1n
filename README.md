@@ -20,7 +20,8 @@ gn="left"> </h2>
 ###
 <p>
 
-  ![hehe](https://github.com/user-attachments/assets/94f3dcfd-481a-4242-8d77-e2fc8782fd6a)
+<img src="https://raw.githubusercontent.com/d4ckm1n/d4ckm1n/main/hehe.gif" width="100%">
+
 
 
 
