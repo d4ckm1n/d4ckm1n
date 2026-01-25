@@ -21,7 +21,8 @@ gn="left"> </h2>
 <p>
 <img src="https://raw.githubusercontent.com/d4ckm1n/d4ckm1n/main/ayanoquy.jpg" width="100%">
 <img src="https://raw.githubusercontent.com/d4ckm1n/d4ckm1n/main/phuongnguyen.png" width="100%">
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=d4ckm1n.d4ckm1n)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=d4ckm1n.d4ckm1n" />
+
 
 
 
