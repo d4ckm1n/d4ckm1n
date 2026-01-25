@@ -21,7 +21,7 @@ gn="left"> </h2>
 <p>
 <img src="https://raw.githubusercontent.com/d4ckm1n/d4ckm1n/main/ayanoquy.jpg" width="100%">
 <img src="https://raw.githubusercontent.com/d4ckm1n/d4ckm1n/main/phuongnguyen.png" width="100%">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=d4ckm1n.d4ckm1n" />
+
 
 
 
@@ -33,6 +33,7 @@ gn="left"> </h2>
 
 
 <img align="right" height="150" src="[https://images.viblo.asia/full/a87852d0-d60c-4a7c-ae42-0bfb6679ecb3.gif]"  />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=d4ckm1n.d4ckm1n" />
 
 ###
 
