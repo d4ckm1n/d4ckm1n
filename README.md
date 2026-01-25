@@ -20,7 +20,7 @@ gn="left"> </h2>
 ###
 <p>
 <img src="https://raw.githubusercontent.com/d4ckm1n/d4ckm1n/main/ayanoquy.jpg" width="100%">
-
+<img src="https://raw.githubusercontent.com/d4ckm1n/d4ckm1n/main/phuongnguyen.png" width="100%">
 
 
 
