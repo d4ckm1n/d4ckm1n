@@ -33,7 +33,7 @@ gn="left"> </h2>
 
 
 <img align="right" height="150" src="[https://images.viblo.asia/full/a87852d0-d60c-4a7c-ae42-0bfb6679ecb3.gif]"  />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=d4ckm1n.d4ckm1n" />
+
 
 ###
 
@@ -60,3 +60,4 @@ gn="left"> </h2>
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=d4ckm1n.d4ckm1n" >
