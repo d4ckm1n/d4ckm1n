@@ -66,7 +66,7 @@ gn="left"> </h2>
 <br>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/d4ckm1n/chuky/main/signature.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/d4ckm1n/d4ckm1n/main/chuky.png" width="200"/>
   <br>
   <strong>Phạm Đức Minh</strong>
 </p>
