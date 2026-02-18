@@ -61,7 +61,7 @@ gn="left"> </h2>
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=d4ckm1n.d4ckm1n&color=111111" />
+<img src="https://🐧-badge.laobi.icu/badge?page_id=d4ckm1n.d4ckm1n&color=111111" />
 <br>
 <br>
 
