@@ -45,7 +45,7 @@ gn="left"> </h2>
 ###
 
 <br clear="both">
-  <img src="https://raw.githubusercontent.com/d4ckm1n/d4ckm1n/main/học1.png" width="1000"/>
+  <img src="https://raw.githubusercontent.com/d4ckm1n/d4ckm1n/main/kohoihan.png" width="1000"/>
 
 
 <br>
